@@ -1,5 +1,5 @@
 ===========================================
-pytng - A python library to read TNG files!
+pytng (Library)- A python library to read TNG files!
 ===========================================
 
 .. image:: https://travis-ci.com/MDAnalysis/pytng.svg?branch=master
@@ -39,7 +39,7 @@ topology and results from molecular dynamics simulations.
 .. _Gromacs: http://manual.gromacs.org/
 
 
-Installation
+Installation-
 ============
 
 To install using pip, simply run
@@ -57,7 +57,7 @@ To install the latest development version from source, run
   python setup.py install
 
 
-Getting help
+Getting help-
 ============
 
 For help using this library, please drop by the `GitHub issue tracker`_.
